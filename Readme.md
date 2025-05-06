@@ -28,8 +28,8 @@ A bout me
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmk-lucas&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmk-lucas&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kakesa&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kakesa&theme=tokyonight" width="49%" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakesa&layout=compact&theme=tokyonight" width="50%">
 </p>
