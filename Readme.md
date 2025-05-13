@@ -35,13 +35,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Total commits]  <!-- Badge pour les commits -->
+  ![Total commits](https://img.shields.io/badge/Total%20Commits-1234-brightgreen)  <!-- Remplacez 1234 par votre nombre total de commits -->
   <img src="https://github-readme-stats.vercel.app/api?username=Kakesa&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kakesa&theme=tokyonight" width="49%" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakesa&layout=compact&theme=tokyonight" width="50%">
 </p>
-
 ---
 
 ## 📫 Contact
