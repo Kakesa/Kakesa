@@ -3,7 +3,7 @@
 **Author:** Espoir Kakesa  
 **Concepteur et Développeur**  
 **DR CONGO**  
-**Author URI:** [espoir-soft.onrender.com]
+**Author URI:** [espoir-soft.onrender.com](https://espoir-soft.onrender.com/)
 
 ## ⚡ Stack & Tools
 <p align="center">
@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Total commits](https://img.shields.io/badge/Total%20Commits-1234-brightgreen)  <!-- Remplacez 1234 par votre nombre total de commits -->
+  <!-- Remplacez 1234 par votre nombre total de commits -->
   <img src="https://github-readme-stats.vercel.app/api?username=Kakesa&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kakesa&theme=tokyonight" width="49%" />
   <br/>
