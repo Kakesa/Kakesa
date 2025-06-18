@@ -27,7 +27,7 @@
 
 ## 🛠️ Projets Clés
 
-- Projet 1 : kinevents.fr
+- Projet 1 : https://kinevents.fr
 - Projet 2 : https://apprendre-a-coder.onrender.com
 - Projet 3 : https://espoir-soft.onrender.com
 - Projet 4 : https://jstore.onrender.com
