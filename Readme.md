@@ -32,6 +32,7 @@
 - Projet 3 : https://espoir-soft.onrender.com
 - Projet 4 : https://jstore.onrender.com
 - Projet 5 : https://facebook-clone-oxey.onrender.com
+- Projet 6 : https://netflix-nu44.onrender.com
 
 
 ---
