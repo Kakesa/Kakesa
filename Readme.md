@@ -33,6 +33,7 @@
 - Projet 4 : https://jstore.onrender.com
 - Projet 5 : https://facebook-clone-oxey.onrender.com
 - Projet 6 : https://netflix-nu44.onrender.com
+- Projet 7 : https://clounage-x.onrender.com
 
 
 ---
