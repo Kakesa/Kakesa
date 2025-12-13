@@ -3,7 +3,7 @@
 **Author:** Espoir Kakesa  
 **Concepteur et Développeur**  
 **DR CONGO**  
-**Author URI:** [espoir-soft.onrender.com](https://espoir-soft.onrender.com/)
+**Author URI:** [espoir-kakesa.netlify.app](https://espoir-kakesa.netlify.app/))
 
 ## ⚡ Stack & Tools
 <p align="center">
