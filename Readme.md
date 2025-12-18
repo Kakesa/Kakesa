@@ -1,9 +1,9 @@
 # À Propos de Moi
 
 **Author:** Espoir Kakesa  
-**Concepteur et Développeur**  
+**Software Engineer | Développeur Full Stack**  
 **DR CONGO**  
-**Author URI:** [espoir-kakesa.netlify.app](https://espoir-kakesa.netlify.app/))
+**Author URI:** [espoir-kakesa.netlify.app](https://espoir-kakesa.netlify.app/)
 
 ## ⚡ Stack & Tools
 <p align="center">
@@ -29,13 +29,14 @@
 ## 🛠️ Projets Clés
 
 - Projet 1 : https://kinevents.fr
-- Projet 2 : https://apprendre-a-coder.onrender.com
+- Projet 2 : https://esengofoundation.netlify.app/
 - Projet 3 : https://espoir-soft.onrender.com
 - Projet 4 : https://jstore.onrender.com
 - Projet 5 : https://facebook-clone-oxey.onrender.com
 - Projet 6 : https://netflix-nu44.onrender.com
 - Projet 7 : https://clounage-x.onrender.com
-- Projet 8 : https://dan-g3wu.onrender.com
+- Projet 8 : https://apprendre-a-coder.onrender.com
+- Projet 9 : https://dan-g3wu.onrender.com
 
 ---
 
