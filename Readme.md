@@ -20,8 +20,7 @@ Comfortable working across the full stack — from pixel-perfect frontend interf
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Building-Scalable_Backend_Systems-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎥_Working_on-Streaming_Infrastructure_(RTMP→HLS)-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚡_Exploring-Real_Time_Apps_(WebRTC_&_Sockets)-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎥_Electronic invitation sending system-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🧠_Learning-Advanced_System_Design-2ECC71?style=for-the-badge"/>
 </p>
 
@@ -75,7 +74,7 @@ Comfortable working across the full stack — from pixel-perfect frontend interf
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kakesa&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kakesa&theme=tokyo-night&hide_border=true&area=true" width="50%"/>
 </p>
 
 ---
