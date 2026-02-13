@@ -8,11 +8,9 @@ Full Stack Software Engineer | JavaScript Specialist
 
 ## 🚀 Professional Summary
 
-Full Stack Software Engineer with strong expertise in modern JavaScript ecosystems and scalable backend architectures.
-
-I design and build high-performance web applications, real-time systems, and streaming platforms using modern tools and best practices.
-
-Comfortable working across the full stack — from pixel-perfect frontend interfaces to robust backend APIs and distributed systems.
+Ingénieur logiciel Full Stack spécialisé dans les écosystèmes technologiques modernes et les architectures backend évolutives.
+Je conçois des applications web performantes, des systèmes temps réel et des plateformes de streaming, en privilégiant l'évolutivité, la performance et une architecture propre.
+Expérience complète du cycle de développement : des interfaces frontend intuitives et soignées aux API backend robustes et aux systèmes distribués conçus pour la croissance.
 
 ---
 
