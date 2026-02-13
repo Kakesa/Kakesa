@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Espoir Kakesa  
-Full Stack Software Engineer | JavaScript Specialist  
+Software Engineer | Développeur Full Stack  
 
 📍 DR Congo | 🌍 Open to Remote Opportunities  
 🌐 Portfolio: https://espoir-kakesa.netlify.app/  
