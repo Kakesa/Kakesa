@@ -1,97 +1,167 @@
-# 👨🏽‍💻 Espoir Kakesa  
-Software Engineer | Développeur Full Stack  
+# 👨🏽‍💻 Espoir Kakesa
 
-📍 DR Congo | 🌍 Open to Remote Opportunities  
-🌐 Portfolio: https://espoir-kakesa.netlify.app/  
+# Software Engineer | Full Stack MERN Developer | SaaS & Platform Builder
 
----
-
-## 🚀 Professional Summary
-
-Ingénieur logiciel Full Stack spécialisé dans les écosystèmes technologiques modernes et les architectures backend évolutives.
-Je conçois des applications web performantes, des systèmes temps réel et des plateformes de streaming, en privilégiant l'évolutivité, la performance et une architecture propre.
-Expérience complète du cycle de développement : des interfaces frontend intuitives et soignées aux API backend robustes et aux systèmes distribués conçus pour la croissance.
+📍 Democratic Republic of Congo  
+🌍 Open to Remote Opportunities  
+🌐 Portfolio: https://espoir-kakesa.netlify.app/
 
 ---
 
-## 🏆 Currently Building
+# 🚀 About Me
+
+I'm a Software Engineer specialized in designing and building scalable web applications using the MERN Stack.
+
+I enjoy transforming complex business requirements into modern digital platforms with clean architecture, secure APIs and intuitive user experiences.
+
+My expertise covers the entire software lifecycle—from system architecture and backend APIs to frontend applications, deployment and cloud infrastructure.
+
+I particularly enjoy building SaaS platforms, business management systems, media platforms and event technologies.
+
+---
+
+# 🚀 Current Focus
+
+- 🚀 Scalable MERN Applications
+- 🏫 School Management Platform (Acadex)
+- 🎙️ Bany Talks Media Platform
+- 🎉 HK Events Digital Event Platform
+- ☁️ VPS Deployment (Nginx, SSL, Linux)
+- 🧠 System Design & Software Architecture
+
+---
+
+# 💻 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multer-4B8BBE?style=for-the-badge"/>
+</p>
+
+---
+
+## Databases
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Hostinger_VPS-673DE6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSL-Let's_Encrypt-green?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎉 HK Events
+Digital invitation and event management platform featuring:
+
+- QR Code Invitations
+- RSVP Management
+- Guest Tracking
+- Organizer Dashboard
+- Real-time Statistics
+
+---
+
+### 🏫 Acadex
+
+Multi-tenant School Management Platform including:
+
+- Student Management
+- Finance & Tuition
+- Teacher Management
+- Academic Records
+- Subscription Management
+- Multi-school Architecture
+
+---
+
+### 🎙️ Bany Talks
+
+Modern media platform featuring:
+
+- Podcast Management
+- YouTube Integration
+- Newsletter
+- Guest Management
+- Admin Dashboard
+
+---
+
+# 🌍 Selected Projects
+
+- https://hkeventscd.com
+- https://banyofficial.com
+- https://esengofoundation.netlify.app
+- https://mafraland-space.netlify.app
+- https://espoir-soft.onrender.com
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Building-Scalable_Backend_Systems-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎥_Electronic invitation sending system-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧠_Learning-Advanced_System_Design-2ECC71?style=for-the-badge"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kakesa&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kakesa&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakesa&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## ⚡ Tech Stack
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-EF3E3E?style=for-the-badge&logo=laravel&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-## 🛠️ Selected Projects
-
-- 🌍 https://kinevents.fr  
-- 🌍 https://esengofoundation.netlify.app  
-- 🌍 https://mafraland-space.netlify.app  
-- 🌍 https://espoir-soft.onrender.com  
-- 🌍 https://jstore.onrender.com  
-- 🌍 https://facebook-clone-oxey.onrender.com  
-- 🌍 https://netflix-nu44.onrender.com  
-- 🌍 https://clounage-x.onrender.com  
-- 🌍 https://apprendre-a-coder.onrender.com  
-- 🌍 https://dan-g3wu.onrender.com  
-
----
-
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kakesa&theme=tokyo-night&hide_border=true&area=true" width="50%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kakesa&theme=tokyo-night&hide_border=true&area=true"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kakesa&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kakesa&theme=tokyonight" width="49%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakesa&layout=compact&theme=tokyonight" width="50%">
-</p>
+📧 Email: **your-email@example.com**
 
----
+💬 WhatsApp: **+243 828 863 897**
 
-## 📫 Let’s Connect
+🌍 Open to Remote Opportunities
 
-📱 WhatsApp: +243 828 863 897  
-🌍 Open to Remote & International Projects  
-💼 Available for Freelance & Contract Work  
+💼 Freelance • Contract • Full-time
 
----
+⭐ Always building scalable products that solve real business problems.
