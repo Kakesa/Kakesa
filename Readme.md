@@ -82,15 +82,6 @@ I particularly enjoy building SaaS platforms, business management systems, media
 
 
 
-# 🌍 Selected Projects
-
-- https://hkeventscd.com
-- https://banyofficial.com
-- https://esengofoundation.netlify.app
-- https://mafraland-space.netlify.app
-- https://espoir-soft.onrender.com
-
----
 
 # 📊 GitHub Stats
 
