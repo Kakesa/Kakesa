@@ -80,45 +80,7 @@ I particularly enjoy building SaaS platforms, business management systems, media
 <img src="https://img.shields.io/badge/SSL-Let's_Encrypt-green?style=for-the-badge"/>
 </p>
 
----
 
-# 🚀 Featured Projects
-
-### 🎉 HK Events
-Digital invitation and event management platform featuring:
-
-- QR Code Invitations
-- RSVP Management
-- Guest Tracking
-- Organizer Dashboard
-- Real-time Statistics
-
----
-
-### 🏫 Acadex
-
-Multi-tenant School Management Platform including:
-
-- Student Management
-- Finance & Tuition
-- Teacher Management
-- Academic Records
-- Subscription Management
-- Multi-school Architecture
-
----
-
-### 🎙️ Bany Talks
-
-Modern media platform featuring:
-
-- Podcast Management
-- YouTube Integration
-- Newsletter
-- Guest Management
-- Admin Dashboard
-
----
 
 # 🌍 Selected Projects
 
@@ -156,7 +118,7 @@ Modern media platform featuring:
 
 # 🤝 Let's Connect
 
-📧 Email: **your-email@example.com**
+📧 Email: **espoirkakesa2@gmail.com**
 
 💬 WhatsApp: **+243 828 863 897**
 
