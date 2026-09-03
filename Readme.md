@@ -85,13 +85,25 @@ I particularly enjoy building SaaS platforms, business management systems, media
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kakesa&show_icons=true&theme=tokyonight"/>
+# 📊 GitHub Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kakesa&theme=tokyonight"/>
+<a href="https://github.com/Kakesa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kakesa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakesa&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/Kakesa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakesa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Kakesa">
+  <img src="https://github-readme-streak-vercel.vercel.app?user=Kakesa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+</div>
 
 </p>
 
